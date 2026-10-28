@@ -22,7 +22,7 @@ const FRASES_PERDER = [
 
 const FRASES_EMPATE = [
   '¡Empate! Nadie dio el brazo a torcer ',
-  '¡Quedaron empatao’ como en el noveno inning! ',
+  '¡Quedaron empatao! ',
 ];
 
 function calcularGanador(casillas) {
