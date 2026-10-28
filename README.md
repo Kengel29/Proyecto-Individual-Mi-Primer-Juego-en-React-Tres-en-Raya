@@ -10,7 +10,7 @@ Los personajes son Taíno vs Caribe.
 
 La interfaz utiliza los colores de la bandera dominicana.
 
-Al terminar cada partida se muestra una frase criolla como "¡Klk, ganaste! ¡De lo mío!".
+Al terminar cada partida se muestra una frase criolla como "¡Klk, ganaste! ¡Te la acabas de beber!".
 
 Incluye marcador de victorias/empates, botón de Reiniciar y efectos de sonido.
 
