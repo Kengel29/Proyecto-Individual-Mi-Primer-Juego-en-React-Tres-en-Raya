@@ -1,33 +1,23 @@
-Tres en Raya Quisqueya 🇩🇴
+# Tres en Raya Quisqueya 🇩🇴
 
-## Nombre, Apellido y Matrícula: Kendri Tatis (100263465)
+**Nombre completo:** [ESCRIBE AQUÍ TU NOMBRE COMPLETO]
 
 ## Descripción del juego
-
-Juego interactivo de Tres en Raya (3x3) desarrollado con React y Vite, ambientado con temática dominicana:
-
-Los personajes son Taíno vs Caribe.
-
-La interfaz utiliza los colores de la bandera dominicana.
-
-Al terminar cada partida se muestra una frase criolla como "¡Klk, ganaste! ¡De lo mío!".
-
-Incluye marcador de victorias/empates, botón de Reiniciar y efectos de sonido.
-
-Persistencia de datos: el estado del juego y el marcador se guardan en el navegador utilizando localStorage.
+Juego de Tres en Raya (3x3) hecho con React y Vite, con ambientación dominicana:
+los jugadores son **Taíno 🏹 vs Caribe 🌴**, el fondo usa los colores de la bandera
+dominicana y al terminar cada partida aparece una frase criolla como
+"¡Klk, ganaste! ¡De lo mío!". Incluye marcador, botón Reiniciar y sonidos simples.
+El estado del juego se guarda en el navegador con `localStorage`.
 
 ## Cómo ejecutarlo
-
+```bash
 npm install
 npm run dev
-
-
-Luego abre el enlace local que aparece en la terminal (como ejemplo: http://localhost:5173).
+```
+Luego abre el enlace que sale en la terminal (normalmente http://localhost:5173).
 
 ## ¿Qué aprendí?
-
-Aprendí a utilizar el hook useState para controlar dinámicamente el estado del tablero (un arreglo de 9 posiciones) y la alternancia de turnos entre los jugadores (X y O), manteniendo la inmutabilidad del estado en React.
+[ESCRIBE AQUÍ con tus palabras: useState para turnos, useEffect + localStorage, etc.]
 
 ## ¿Qué parte fue más difícil?
-
-La parte más difícil fue la visualización del juego al probarlo en el navegador. Cuando intentaba visualizarlo directamente o abrir la previsualización del servidor de desarrollo, el entorno no me lo permitía directamente y me abría una pestaña adicional indicando "Open", lo que dificultaba verificar los cambios visuales en tiempo real.
+[ESCRIBE AQUÍ tu respuesta]

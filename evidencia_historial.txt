@@ -1,0 +1,11 @@
+HISTORIAL DE DESARROLLO - TRES EN RAYA QUISQUEYA
+
+Estudiante: Kendri Tatis 100263465
+
+[Paso 1] Creé el proyecto con Vite + React.
+[Paso 2] Hice el tablero 3x3 con botones y los turnos X / O con useState.
+[Paso 3] Programé calcularGanador() con las 8 combinaciones ganadoras y el empate.
+[Paso 4] Agregué el botón Reiniciar.
+[Paso 5] Guardé el juego con localStorage y useEffect.
+[Paso 6] Puse estilos con CSS: colores y fondo de la bandera dominicana.
+[Paso 7] Agregué frases dominicanas, Taíno vs Caribe y sonidos.
